@@ -6,7 +6,7 @@ output: github_document
 
 # My first commit
 
-Here is some text that constitutes my first commit in my first repo. 
+Here is some text that makes up my first commit in my first repo. 
 
 # My second commit 
 
@@ -15,3 +15,7 @@ some mo stuff
 # My third commmit
 
 third time so it sticks
+
+# My test branch
+
+Here is some text i will commit to the test branch.
