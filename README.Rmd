@@ -20,3 +20,8 @@ third time so it sticks
 # My test branch
 
 Here is some text i will commit to the test branch.
+
+# New_test branch
+
+new stuff
+>>>>>>> new_test
