@@ -5,7 +5,8 @@ Sheena Lim
 # My first commit
 
 Here is some text that makes up my first commit in my first repo. I am
-now adding a new like to this first commit section of the readme.
+now adding a new like to this first commit section of the readme. test
+for another commit text for another commit
 
 # My second commit
 
